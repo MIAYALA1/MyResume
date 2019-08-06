@@ -43,10 +43,10 @@ body
 
 .add_skills
 {
-  text-align: center
+  text-align:center
   padding: 10px;
   margin: 10px;
   width: 400px;
-  height: 30px;
+  height: 40px;
   border: 10px ridge black;
 }

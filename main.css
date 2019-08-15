@@ -1,7 +1,19 @@
 body
 {
-  background-color: green;
+  background-image: url(images/cyber2-494x494.jpg);
   color: white;
+
+}
+
+.left-pic  
+{
+  display: block;
+  border: 10px solid black;
+  position: ;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  margin-bottom: 20px;
 }
 
 .namecontact
@@ -9,9 +21,10 @@ body
     text-align: center;
     margin: auto;
     position: relative;
-    border: 3px solid #73AD21;
+    border: 3px solid rgb(54, 33, 173);
     width: 600px;
     height: 100px;
+    background-color: black
 }
 
 .objective
@@ -22,6 +35,7 @@ body
   width: 400px;
   height: 160px;
   border: 10px ridge black;
+  background-color: black
 }
 
 .profexp
@@ -32,6 +46,7 @@ body
   width: 400px;
   height: 310px;
   border: 10px ridge black;
+  background-color:black;
 }
 
 .education
@@ -42,6 +57,7 @@ body
   width: 400px;
   height: 200px;
   border: 10px ridge black;
+  background-color: black;
 }
 
 .add_skills
@@ -52,5 +68,5 @@ body
   width: 400px;
   height: 40px;
   border: 10px ridge black;
-  
+  background-color: black
 }
